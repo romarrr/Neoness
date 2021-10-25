@@ -1,0 +1,1 @@
+<p class="text-center mt-5 fs-1">Bienvenue sur la page d'accueil de NEONESS !</p>
